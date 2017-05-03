@@ -86,7 +86,7 @@
     Ctrl+Shift+”+/-”，全部展开、折叠
 `  
 
-#【调试部分、编译】  
+# 【调试部分、编译】  
     `Ctrl+F2，停止
     Alt+Shift+F9，选择 Debug
     Alt+Shift+F10，选择 Run
@@ -121,7 +121,7 @@
     Ctrl+Shift+Tab，转到上一个拆分器
     
     `
-#【重构】  
+# 【重构】  
     `
     Ctrl+Alt+Shift+T，弹出重构菜单
     Shift+F6，重命名
@@ -130,8 +130,8 @@
     Alt+Delete，安全删除
     Ctrl+Alt+N，内联  
     `
-#【查找】  
-`
+# 【查找】  
+    `
     Ctrl+F，查找
     Ctrl+R，替换
     F3，查找下一个
