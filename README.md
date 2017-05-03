@@ -1,5 +1,5 @@
 # idea_study
-
+`
 IntelliJ Idea 常用快捷键列表
 
 Ctrl+Shift + Enter，语句完成
@@ -84,6 +84,7 @@ Ctrl+Enter，上插一行
 Ctrl+Backspace，按单词删除
 Ctrl+”+/-”，当前方法展开、折叠
 Ctrl+Shift+”+/-”，全部展开、折叠
+`
 #【调试部分、编译】  
 Ctrl+F2，停止
 Alt+Shift+F9，选择 Debug
