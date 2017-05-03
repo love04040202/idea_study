@@ -87,55 +87,63 @@
 `  
 
 #【调试部分、编译】  
-Ctrl+F2，停止
-Alt+Shift+F9，选择 Debug
-Alt+Shift+F10，选择 Run
-Ctrl+Shift+F9，编译
-Ctrl+Shift+F10，运行
-Ctrl+Shift+F8，查看断点
-F8，步过
-F7，步入
-Shift+F7，智能步入
-Shift+F8，步出
-Alt+Shift+F8，强制步过
-Alt+Shift+F7，强制步入
-Alt+F9，运行至光标处
-Ctrl+Alt+F9，强制运行至光标处
-F9，恢复程序
-Alt+F10，定位到断点
-Ctrl+F8，切换行断点
-Ctrl+F9，生成项目
-Alt+1，项目
-Alt+2，收藏
-Alt+6，TODO
-Alt+7，结构
-Ctrl+Shift+C，复制路径
-Ctrl+Alt+Shift+C，复制引用，必须选择类名
-Ctrl+Alt+Y，同步
-Ctrl+~，快速切换方案（界面外观、代码风格、快捷键映射等菜单）
-Shift+F12，还原默认布局
-Ctrl+Shift+F12，隐藏/恢复所有窗口
-Ctrl+F4，关闭
-Ctrl+Shift+F4，关闭活动选项卡
-Ctrl+Tab，转到下一个拆分器
-Ctrl+Shift+Tab，转到上一个拆分器
+    `Ctrl+F2，停止
+    Alt+Shift+F9，选择 Debug
+    Alt+Shift+F10，选择 Run
+    Ctrl+Shift+F9，编译
+    Ctrl+Shift+F10，运行
+    Ctrl+Shift+F8，查看断点
+    F8，步过
+    F7，步入
+    Shift+F7，智能步入
+    Shift+F8，步出
+    Alt+Shift+F8，强制步过
+    Alt+Shift+F7，强制步入
+    Alt+F9，运行至光标处
+    Ctrl+Alt+F9，强制运行至光标处
+    F9，恢复程序
+    Alt+F10，定位到断点
+    Ctrl+F8，切换行断点
+    Ctrl+F9，生成项目
+    Alt+1，项目
+    Alt+2，收藏
+    Alt+6，TODO
+    Alt+7，结构
+    Ctrl+Shift+C，复制路径
+    Ctrl+Alt+Shift+C，复制引用，必须选择类名
+    Ctrl+Alt+Y，同步
+    Ctrl+~，快速切换方案（界面外观、代码风格、快捷键映射等菜单）
+    Shift+F12，还原默认布局
+    Ctrl+Shift+F12，隐藏/恢复所有窗口
+    Ctrl+F4，关闭
+    Ctrl+Shift+F4，关闭活动选项卡
+    Ctrl+Tab，转到下一个拆分器
+    Ctrl+Shift+Tab，转到上一个拆分器
+    
+    `
 #【重构】  
-Ctrl+Alt+Shift+T，弹出重构菜单
-Shift+F6，重命名
-F6，移动
-F5，复制
-Alt+Delete，安全删除
-Ctrl+Alt+N，内联  
-#【查找】
-Ctrl+F，查找
-Ctrl+R，替换
-F3，查找下一个
-Shift+F3，查找上一个
-Ctrl+Shift+F，在路径中查找
-Ctrl+Shift+R，在路径中替换
-Ctrl+Shift+S，搜索结构
-Ctrl+Shift+M，替换结构
-Alt+F7，查找用法
-Ctrl+Alt+F7，显示用法
-Ctrl+F7，在文件中查找用法
-Ctrl+Shift+F7，在文件中高亮显示用法
+    `
+    Ctrl+Alt+Shift+T，弹出重构菜单
+    Shift+F6，重命名
+    F6，移动
+    F5，复制
+    Alt+Delete，安全删除
+    Ctrl+Alt+N，内联  
+    `
+#【查找】  
+`
+    Ctrl+F，查找
+    Ctrl+R，替换
+    F3，查找下一个
+    Shift+F3，查找上一个
+    Ctrl+Shift+F，在路径中查找
+    Ctrl+Shift+R，在路径中替换
+    Ctrl+Shift+S，搜索结构
+    Ctrl+Shift+M，替换结构
+    Alt+F7，查找用法
+    Ctrl+Alt+F7，显示用法
+    Ctrl+F7，在文件中查找用法
+    Ctrl+Shift+F7，在文件中高亮显示用法
+  `
+  
+ 
