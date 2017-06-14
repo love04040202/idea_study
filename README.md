@@ -1,5 +1,41 @@
 # idea_study
-`  
+
+## 【环境搭建】  
+    1、下载下面的文件
+
+    1017端口版:
+
+    链接: http://download.csdn.net/detail/lanyu19950216/9465577
+
+    备用链接: https://drive.google.com/file/d/0Bx7wGDIg2K-7MTJ1TGN1V1IzTVk/view?usp=sharing
+
+    备用链接: https://pan.baidu.com/s/1hqVTze8 密码: pf5n
+
+    41017端口版:
+
+    链接：http://download.csdn.net/detail/lanyu19950216/9465792
+
+    备用链接: https://drive.google.com/file/d/0Bx7wGDIg2K-7T2JNRjhMNTZ6bGc/view?usp=sharing
+
+    v1.3:
+
+    磁力链接: magnet:?xt=urn:btih:2289E4F8CEB346AC44E54C8C0DA706CC537301AA
+
+    v1.4:
+
+    https://mega.nz/#!Hs4CEbRR!FteOJmJ0AfuLvTUFs3dn9xH6eESm3io2BZ5neIXTQds
+
+    解压密码:3415E428
+
+    磁力链接: magnet:?xt=urn:btih:ED1FA379ECBD34D13CB7D14B0C2B024986A6FC79&dn=IntelliJIDEALicenseServer(v1.4).tar
+
+    2、找到自己操作系统的版本，我这里使用IntelliJIDEALicenseServer_windows_amd64.exe，双击打开运行
+
+    3、在idea注册界面选择授权服务器，填写http://127.0.0.1:1017，然后点击“OK”，如图
+
+    PS:不要问为啥端口是1017，我女票生日
+
+    `  
     IntelliJ Idea 常用快捷键列表
 
     Ctrl+Shift + Enter，语句完成
